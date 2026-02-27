@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "追想のラグナロク　(Ver 藍月なくる)",
+  "base_artist": "藍月なくる",
+  "createdAt": "2026-02-27T10:25:32.007331Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "追想のラグナロク",
+      "artist": "藍月なくる & 棗いつき",
+      "has_synced": false,
+      "path": "select/pl_01_追想のラグナロク_藍月なくる_&_棗いつき.txt"
+    }
+  ]
+}
